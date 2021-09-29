@@ -1,5 +1,7 @@
 ![About me](https://img.shields.io/badge/-about_me-2C394B?style=for-the-badge&logo=desing&logoWidth=100)
 
+coming soon, little more about me!
+
 <!-- about me -->
 
 ![Contact](https://img.shields.io/badge/-contact-2C394B?style=for-the-badge&logo=desing&logoWidth=100)
@@ -17,6 +19,10 @@
 ![Javascript](https://img.shields.io/badge/-javascript-2C394B?style=for-the-badge&logo=javascript&labelColor=ECA013&logoColor=FFF)
 ![Git](https://img.shields.io/badge/-Git-2C394B?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-2C394B?style=for-the-badge&logo=github&labelColor=logoColor=FFF)
+
+<!-- most used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lointainy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Design Portfolio](https://img.shields.io/badge/-design_portfolio-2C394B?style=for-the-badge&logo=desing&logoWidth=100)
 
