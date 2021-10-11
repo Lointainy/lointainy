@@ -16,6 +16,7 @@ coming soon, little more about me!
 
 ![Html](https://img.shields.io/badge/-html-2C394B?style=for-the-badge&logo=html5&labelColor=D95A19&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/-css-2C394B?style=for-the-badge&logo=css3&labelColor=3071E7&logoColor=FFF)
+![SCSS](https://img.shields.io/badge/-scss-2C394B?style=for-the-badge&logo=Sass&labelColor=CC6699&logoColor=FFF)
 ![Javascript](https://img.shields.io/badge/-javascript-2C394B?style=for-the-badge&logo=javascript&labelColor=ECA013&logoColor=FFF)
 ![Git](https://img.shields.io/badge/-Git-2C394B?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-2C394B?style=for-the-badge&logo=github&labelColor=logoColor=FFF)
