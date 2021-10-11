@@ -14,6 +14,7 @@ coming soon, little more about me!
 
 <!-- icon dev skill`s -->
 
+![VS Code](https://img.shields.io/badge/-vs_code-2C394B?style=for-the-badge&logo=VisualStudioCode&labelColor=007ACC&logoColor=FFF)
 ![Html](https://img.shields.io/badge/-html-2C394B?style=for-the-badge&logo=html5&labelColor=D95A19&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/-css-2C394B?style=for-the-badge&logo=css3&labelColor=3071E7&logoColor=FFF)
 ![SCSS](https://img.shields.io/badge/-scss-2C394B?style=for-the-badge&logo=Sass&labelColor=CC6699&logoColor=FFF)
