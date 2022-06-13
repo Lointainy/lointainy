@@ -29,7 +29,7 @@ coming soon, little more about me!
 
 ![Dev skills](https://img.shields.io/badge/-dev_skills-2C394B?style=for-the-badge&logo=desing&logoWidth=100)
 
-[![behance](https://www.codewars.com/users/Lointainy/badges/large)](https://www.codewars.com/users/Lointainy)
+[![codewars](https://www.codewars.com/users/Lointainy/badges/large)](https://www.codewars.com/users/Lointainy)
 
 
 <!--
