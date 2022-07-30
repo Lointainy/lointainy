@@ -33,7 +33,8 @@ const coding = () => {
 ```
 
 <details>
-  <summary><b>Github Stats <b/>  &#127919; </summary>
+  <summary><b>Github Stats <b/>  &#127919;
+  </summary>
 
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lointainy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
@@ -48,8 +49,15 @@ const coding = () => {
 
 </details>
 
+<br>
+
 <div align="center">
 Contact &#128237;
 <a href='https://t.me/eug1_design'>telegram
 </a>
+
+<br>
+<br>
+
+[![Profile](https://www.codewars.com/users/Lointainy/badges/micro)](https://github.com/Lointainy/codewars)
 </div>
