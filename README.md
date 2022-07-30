@@ -12,7 +12,7 @@ After 5 years in design i go to coding!
 <hr>
 
 ```javascript
-const Eugene = {
+const userEugene = {
     code: [{
         workspace: ['VS code'],
         language: [Html, Css: {'scss'}, Javascript],
