@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I`m frontend developer from 🇺🇦.
+I`m frontend developer from 🇺🇦
 After 5 years in design i go to coding!
 </p>
 
