@@ -19,7 +19,7 @@ const Eugene = {
         tools: [Git, Figma, Vue, Pinia, Vite, React],
     }],
     design: [{
-        experience: '5 year/`s'
+        experience: '5 year/`s',
         space: ['brand','web design'],
         tools: ['AI','Figma','PS','AE','Blender']
         }]
