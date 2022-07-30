@@ -1,4 +1,4 @@
-## Hi, aweryone! :wave:
+## Hi, everyone! :wave:
 
 <p align="center">
 <img style="width: 80px" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b76117ea34f040107fb51bb80dbf154e8a577e89b0e77&rid=giphy.gif&ct=s">
