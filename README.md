@@ -16,7 +16,7 @@ const userEugene = {
     code: [{
         workspace: ['VS code'],
         language: [Html, Css: {'scss'}, Javascript],
-        tools: [Git, Figma, Vue, Pinia, Vite, React],
+        tools: [Git, Figma, Tailwind, Vue, Pinia, Vite, React],
     }],
     design: [{
         experience: '5 year/`s',
