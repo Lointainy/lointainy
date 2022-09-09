@@ -17,7 +17,7 @@ const user = {
     code: [{
         workspace: ['VS code'],
         language: [Html, Css: {'scss'}, Javascript],
-        tools: [Git, Figma, Tailwind, Vue, Pinia, Vite, React],
+        tools: [Git, Figma, Tailwind, Vite, Vue, Pinia, React, Redux],
     }],
     design: [{
         experience: '5 year/`s',
