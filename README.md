@@ -37,8 +37,7 @@ const coding = () => {
   <summary><b>Github Stats <b/>  &#127919;
   </summary>
 
-<a href="#">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lointainy&langs_count=10&theme=blueberry&count_private=true&hide_border=true&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lointainy&langs_count=10&theme=blueberry&count_private=true&hide_border=true&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
