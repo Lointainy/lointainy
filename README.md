@@ -21,8 +21,8 @@ const user = {
     }],
     design: [{
         experience: '5 year/`s',
-        space: ['brand','web design'],
-        tools: ['AI','Figma','PS','AE','Blender']
+        space: ['Brand','Web', 'Print'],
+        tools: ['AI', 'Figma', 'PS', 'AE', 'Blender']
         }]
 }
 
@@ -33,13 +33,7 @@ const coding = () => {
 }
 ```
 
-<details>
-  <summary><b>Github Stats <b/>  &#127919;
-  </summary>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lointainy&langs_count=10&theme=blueberry&count_private=true&hide_border=true&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 <details>
   <summary><b>Design folio<b/>  &#x1F3A8;</summary>
