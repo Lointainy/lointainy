@@ -14,23 +14,25 @@ After 5 years in design i go to coding!
 ```javascript
 const user = {
     name: 'Eugene',
-    code: [{
-        workspace: ['VS code'],
-        language: [Html, Css: {'scss'}, Javascript, TypeScript],
-        tools: [Git, Figma, Tailwind, Vite, React, Redux, Vue, Pinia],
-    }],
-    design: [{
-        experience: '5 year/`s',
-        space: ['Brand','Web', 'Print'],
-        tools: ['AI', 'Figma', 'PS', 'AE', 'Blender']
-        }]
+    code: {
+        basic: ['HTML', 'CSS': {'SCSS'}, Javascript, Typescript, React, Redux],
+        secondary: ['Git', 'Vite', 'Tailwind', 'MongoDB','NodeJS', 'Express', 'Vue', 'Pinia']
+        tools: ['VS Code', 'Figma', 'insomnia', 'postman']
+    },
+    design: {
+        basic: ['Logotype', 'Print'],
+        secondary: ['Web']
+        tools: ['Ai','Figma', 'PS', 'AE', 'Blender']
+    }
 }
 
 const coding = () => {
-    for(let i = 0; i <= Infinity; i++) {
-        // live to coding || coding to live
+    for (let i = 0; i < Infinity; i++) {
+        console.log('live to coding || coding to live')
     }
 }
+
+coding()
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lointainy&langs_count=10&theme=blueberry&count_private=true&hide_border=true&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
