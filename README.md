@@ -16,12 +16,12 @@ const user = {
     name: 'Eugene',
     code: {
         basic: ['HTML', 'CSS': {'SCSS'}, Javascript, Typescript, React, Redux],
-        secondary: ['Git', 'Vite', 'Tailwind', 'MongoDB','NodeJS', 'Express', 'Vue', 'Pinia']
+        secondary: ['Git', 'Vite', 'Tailwind', 'MongoDB','NodeJS', 'Express', 'Vue', 'Pinia'],
         tools: ['VS Code', 'Figma', 'insomnia', 'postman']
     },
     design: {
         basic: ['Logotype', 'Print'],
-        secondary: ['Web']
+        secondary: ['Web'],
         tools: ['Ai','Figma', 'PS', 'AE', 'Blender']
     }
 }
