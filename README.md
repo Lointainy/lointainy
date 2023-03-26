@@ -42,7 +42,7 @@ coding()
 
 <br>
 
-[![behance](https://img.shields.io/badge/-behance-2C394B?style=for-the-badge&logo=behance&labelColor=001000&logoColor=FFF)](https://www.behance.net/eug1_design) [![instagram](https://img.shields.io/badge/-instagram-2C394B?style=for-the-badge&logo=instagram&labelColor=F75151&logoColor=FFF)](https://www.instagram.com/eug1_design/)
+[![behance](https://img.shields.io/badge/-behance-2C394B?style=for-the-badge&logo=behance&labelColor=001000&logoColor=FFF)](https://www.behance.net/eug1_design) [![instagram](https://img.shields.io/badge/-instagram-2C394B?style=for-the-badge&logo=instagram&labelColor=F75151&logoColor=FFF)](https://www.instagram.com/eug1_kozakov/)
 
 </details>
 
@@ -50,7 +50,7 @@ coding()
 
 <div align="center">
 Contact &#128237;
-<a href='https://t.me/eug1_design'>telegram
+<a href='https://t.me/eug1_kozakov'>telegram
 </a>
 
 <br>
