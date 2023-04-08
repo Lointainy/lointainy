@@ -17,7 +17,7 @@ const user = {
     code: {
         basic: ['HTML', 'CSS': {'SCSS'}, 'Javascript', 'Typescript', 'React', 'Redux'],
         secondary: ['Git', 'Vite', 'Tailwind', 'MongoDB','NodeJS', 'Express', 'Vue', 'Pinia'],
-        tools: ['VS Code', 'Figma', 'insomnia', 'postman']
+        tools: ['VS Code', 'Figma', 'insomnia', 'postman', 'Swagger API doc']
     },
     design: {
         basic: ['Logotype', 'Print'],
