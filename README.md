@@ -15,8 +15,8 @@ After 5 years in design i go to coding!
 const user = {
     name: 'Eugene',
     code: {
-        basic: ['HTML', 'CSS': {'SCSS'}, 'Javascript', 'Typescript', 'React', 'Redux'],
-        secondary: ['Git', 'Vite', 'Tailwind', 'MongoDB','NodeJS', 'Express', 'Vue', 'Pinia'],
+        basic: ['HTML', 'CSS': {'SCSS'}, 'Javascript', 'Typescript', 'React', 'Redux', 'PHP'],
+        secondary: ['Git', 'Vite', 'Tailwind', 'MongoDB','NodeJS', 'Express', 'Jquery', 'Vue', 'Pinia', 'Wordpress'],
         tools: ['VS Code', 'Figma', 'insomnia', 'postman', 'Swagger API doc']
     },
     design: {
