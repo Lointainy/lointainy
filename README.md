@@ -6,7 +6,7 @@
 
 <p align="center">
 I`m frontend developer from 🇺🇦
-After 5 years in design i go to coding!
+After 6 years in design i go to coding!
 </p>
 
 <hr>
@@ -15,13 +15,14 @@ After 5 years in design i go to coding!
 const user = {
     name: 'Eugene',
     code: {
-        basic: ['HTML', 'CSS': {'SCSS'}, 'Javascript', 'Typescript', 'React', 'Redux', 'PHP'],
-        secondary: ['Git', 'Vite', 'Tailwind', 'MongoDB','NodeJS', 'Express', 'Jquery', 'Vue', 'Pinia', 'Wordpress'],
-        tools: ['VS Code', 'Figma', 'insomnia', 'postman', 'Swagger API doc']
+        lang: ['HTML', 'CSS': {'SCSS'}, 'Javascript': {'Typescript'}, 'PHP'],
+        frameworks: ['React': {'Redux TK'}, 'Vue', 'Jquery'],
+        CMS: ['Wordpress': {'Elementor', 'WPBakery'}],
+        backend: ['NodeJs': {'Express'}, 'MongoDB', 'Swagger API DOC'],
+        tools: ['Git', 'Vite', 'Gulp', 'Insomnia', 'Postman', 'Figma', 'VS Code'],
     },
     design: {
         basic: ['Logotype', 'Print'],
-        secondary: ['Web'],
         tools: ['Ai','Figma', 'PS', 'AE', 'Blender']
     }
 }
