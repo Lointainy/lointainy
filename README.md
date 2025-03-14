@@ -16,14 +16,13 @@ const user = {
     name: 'Eugene',
     code: {
         lang: ['HTML', 'CSS': {'SCSS'}, 'Javascript': {'Typescript'}, 'PHP'],
-        frameworks: ['React': {'Redux TK'}, 'Vue', 'Jquery'],
-        CMS: ['Wordpress': {'Elementor', 'WPBakery'}],
-        backend: ['NodeJs': {'Express'}, 'MongoDB', 'Swagger API DOC'],
-        tools: ['Git', 'Vite', 'Gulp', 'Insomnia', 'Postman', 'Figma', 'VS Code'],
+        frameworks: ['React': {'Redux TK'}, 'NEXT.js', 'Vue', 'Jquery'],
+        backend: ['NodeJs': {'Express'}, 'MongoDB', 'Prisma', 'Swagger API DOC'],
+        tools: ['Git', 'Vite', 'Postman', 'Figma', 'VS Code'],
     },
     design: {
         basic: ['Logotype', 'Print'],
-        tools: ['Ai','Figma', 'PS', 'AE', 'Blender']
+        tools: ['Ai','Figma', 'PS']
     }
 }
 
